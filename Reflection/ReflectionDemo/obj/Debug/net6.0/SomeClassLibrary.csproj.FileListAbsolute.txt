@@ -1,0 +1,14 @@
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\C#Reflection\Reflection\ReflectionDemo\obj\Debug\net6.0\SomeClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\C#Reflection\Reflection\ReflectionDemo\obj\Debug\net6.0\SomeClassLibrary.AssemblyInfoInputs.cache
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\C#Reflection\Reflection\ReflectionDemo\obj\Debug\net6.0\SomeClassLibrary.AssemblyInfo.cs
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\C#Reflection\Reflection\ReflectionDemo\obj\Debug\net6.0\SomeClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\C#Reflection\Reflection\ReflectionDemo\bin\Debug\net6.0\SomeClassLibrary.exe
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\C#Reflection\Reflection\ReflectionDemo\bin\Debug\net6.0\SomeClassLibrary.deps.json
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\C#Reflection\Reflection\ReflectionDemo\bin\Debug\net6.0\SomeClassLibrary.runtimeconfig.json
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\C#Reflection\Reflection\ReflectionDemo\bin\Debug\net6.0\SomeClassLibrary.dll
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\C#Reflection\Reflection\ReflectionDemo\bin\Debug\net6.0\SomeClassLibrary.pdb
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\C#Reflection\Reflection\ReflectionDemo\obj\Debug\net6.0\SomeClassLibrary.dll
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\C#Reflection\Reflection\ReflectionDemo\obj\Debug\net6.0\refint\SomeClassLibrary.dll
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\C#Reflection\Reflection\ReflectionDemo\obj\Debug\net6.0\SomeClassLibrary.pdb
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\C#Reflection\Reflection\ReflectionDemo\obj\Debug\net6.0\SomeClassLibrary.genruntimeconfig.cache
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\C#Reflection\Reflection\ReflectionDemo\obj\Debug\net6.0\ref\SomeClassLibrary.dll
